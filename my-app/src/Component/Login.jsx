@@ -3,13 +3,14 @@ import React, { useState } from 'react'
 const Login = () => {
     const[email, setEmail] = useState("");
     const[password, setPassword] = useState("");
-    const[Allentry, setAllEntry] = useState([]);
+    const[Allentry, setAllEntry] = useState([]);     
 
     const submitForm = (e) => {
         e.preventDefault();
         const newEntry = {email: email, password: password};
+        console.log(newEntry);
         setAllEntry([...Allentry, newEntry]);
-        console.log(Allentry);
+        // console.log(Allentry);
     };
     return (
         <>

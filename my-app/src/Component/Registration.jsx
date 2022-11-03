@@ -9,7 +9,8 @@ const Registration = () => {
     const [AllEntry, setAllEntry] = useState([]);
     const submitForm = (e) => {
         e.preventDefault();
-        const newEntry = { name, email, password, address};
+        const newEntry = { name:name, email:email, password:password, address:password};
+        // console.log(newEntry)
         setAllEntry([...AllEntry, newEntry]);
         console.log(AllEntry);
     }
