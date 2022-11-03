@@ -1,0 +1,12 @@
+.ratingStar{
+    height: 20px;
+    width: 20px;
+}
+.body{
+    background-color: bisque;
+}
+.counter_container_star{
+    justify-content: space-around;
+    display: inline;
+    
+}
