@@ -1,7 +1,8 @@
 "use strict";
 class Bank_Acc {
+    this.collection = [];
     constructor(id, firstName, lastName, address, phone, email, type) {
-        this.collection = [];
+        
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
