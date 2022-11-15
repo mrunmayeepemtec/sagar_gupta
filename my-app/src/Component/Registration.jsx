@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 
 const Registration = () => {
+
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
@@ -9,8 +10,8 @@ const Registration = () => {
     const [AllEntry, setAllEntry] = useState([]);
     const submitForm = (e) => {
         e.preventDefault();
-        const newEntry = { name:name, email:email, password:password, address:password};
-        // console.log(newEntry)
+        const newEntry = { name:name, email:email, password:password, address:address};
+        console.log(newEntry)
         setAllEntry([...AllEntry, newEntry]);
         console.log(AllEntry);
     }

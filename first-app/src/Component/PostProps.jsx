@@ -1,12 +1,12 @@
 import React from 'react'
 
 const PostProps = (props) => {
-    const {post} = props;
-    const {userId, id, title, body} = post;
-    // console.log(userId);
+    const {userId, id, title, body} = props;
+    const {post} = props
+   
   return (
     <>
-     {post.map((data)=>{
+     {userId.map((data)=>{
         return(
             <div>
                 <ul>

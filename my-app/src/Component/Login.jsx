@@ -8,10 +8,11 @@ const Login = () => {
     const submitForm = (e) => {
         e.preventDefault();
         const newEntry = {email: email, password: password};
-        console.log(newEntry);
+        // console.log(newEntry);
         setAllEntry([...Allentry, newEntry]);
-        // console.log(Allentry);
+        console.log(Allentry);
     };
+
     return (
         <>
             <form action='' onSubmit={submitForm}>

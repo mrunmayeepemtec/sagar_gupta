@@ -1,26 +1,28 @@
 import React from 'react'
 
 const CarList = (props) => {
-    const {car} = props;
+    const cars = props;
   return (
    <div>
-    <tbody>
-      {car.map((car) => {
+    
+      {cars.map((s) => {
         return(
-        <tr>
-          <td>{car.model}</td>
-          <td>{car.company}</td>
-          <td>{car.price}</td>
-          <td>{car.configuration.color}</td>
-          <td>{car.configuration.fuel}</td>
-          <td>{car.configuration.cylinder}</td>
-          <td>{car.configuration.fuelTankCapacity}</td>
-          <td>{car.configuration.mileage.city}</td>
-          <td>{car.configuration.mileage.highway}</td>
-        </tr>  
+          <div>
+        <ul>
+          <li>{s.model}</li>
+          <li>{s.company}</li>
+          <li>{s.price}</li>
+          <li>{s.configuration.color}</li>
+          <li>{s.configuration.fuel}</li>
+          <li>{s.configuration.cylinder}</li>
+          <li>{s.configuration.fuelTankCapacity}</li>
+          <li>{s.configuration.mileage.city}</li>
+          <li>{s.configuration.mileage.highway}</li>
+        </ul>  
+        </div>
         )
       })}
-      </tbody>
+      
     </div>
   )
 }
