@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\Substring\Substring\bin\Debug\Substring.exe.config
+C:\Users\sagar.gupta\source\repos\Substring\Substring\bin\Debug\Substring.exe
+C:\Users\sagar.gupta\source\repos\Substring\Substring\bin\Debug\Substring.pdb
+C:\Users\sagar.gupta\source\repos\Substring\Substring\obj\Debug\Substring.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\Substring\Substring\obj\Debug\Substring.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\Substring\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\Substring\Substring\obj\Debug\Substring.exe
+C:\Users\sagar.gupta\source\repos\Substring\Substring\obj\Debug\Substring.pdb

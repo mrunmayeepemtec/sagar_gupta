@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\bin\Debug\Concatenatestrings.exe.config
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\bin\Debug\Concatenatestrings.exe
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\bin\Debug\Concatenatestrings.pdb
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\obj\Debug\Concatenatestrings.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\obj\Debug\Concatenatestrings.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\obj\Debug\Concatenatestrings.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\obj\Debug\Concatenatestrings.exe
+C:\Users\sagar.gupta\source\repos\Concatenatestrings\Concatenatestrings\obj\Debug\Concatenatestrings.pdb

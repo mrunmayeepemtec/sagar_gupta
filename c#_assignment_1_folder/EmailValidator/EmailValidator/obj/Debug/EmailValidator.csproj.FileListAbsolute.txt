@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\obj\Debug\EmailValidator.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\obj\Debug\EmailValidator.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\obj\Debug\EmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\bin\Debug\EmailValidator.exe.config
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\bin\Debug\EmailValidator.exe
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\bin\Debug\EmailValidator.pdb
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\obj\Debug\EmailValidator.exe
+C:\Users\sagar.gupta\source\repos\EmailValidator\EmailValidator\obj\Debug\EmailValidator.pdb

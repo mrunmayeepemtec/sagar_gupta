@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\bin\Debug\oopsconcepts.exe.config
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\bin\Debug\oopsconcepts.exe
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\bin\Debug\oopsconcepts.pdb
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.exe
+C:\Users\sagar.gupta\source\repos\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.pdb

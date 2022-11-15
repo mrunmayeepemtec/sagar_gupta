@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\bin\Debug\Enums_Usage.exe.config
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\bin\Debug\Enums_Usage.exe
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\bin\Debug\Enums_Usage.pdb
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\obj\Debug\Enums_Usage.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\obj\Debug\Enums_Usage.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\obj\Debug\Enums_Usage.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\obj\Debug\Enums_Usage.exe
+C:\Users\sagar.gupta\source\repos\Enums_Usage\Enums_Usage\obj\Debug\Enums_Usage.pdb
