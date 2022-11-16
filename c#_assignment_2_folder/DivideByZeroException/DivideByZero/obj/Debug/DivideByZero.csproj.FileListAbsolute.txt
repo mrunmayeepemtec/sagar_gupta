@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\bin\Debug\DivideByZero.exe.config
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\bin\Debug\DivideByZero.exe
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\bin\Debug\DivideByZero.pdb
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\obj\Debug\DivideByZero.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\obj\Debug\DivideByZero.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\obj\Debug\DivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\obj\Debug\DivideByZero.exe
+C:\Users\sagar.gupta\source\repos\DivideByZero\DivideByZero\obj\Debug\DivideByZero.pdb

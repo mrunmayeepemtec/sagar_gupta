@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\bin\Debug\EmailValidationRegex.exe.config
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\bin\Debug\EmailValidationRegex.exe
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\bin\Debug\EmailValidationRegex.pdb
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\obj\Debug\EmailValidationRegex.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\obj\Debug\EmailValidationRegex.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\obj\Debug\EmailValidationRegex.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\obj\Debug\EmailValidationRegex.exe
+C:\Users\sagar.gupta\source\repos\EmailValidationRegex\EmailValidationRegex\obj\Debug\EmailValidationRegex.pdb

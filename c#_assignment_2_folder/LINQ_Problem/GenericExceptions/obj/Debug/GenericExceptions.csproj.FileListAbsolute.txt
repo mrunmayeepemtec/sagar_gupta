@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\bin\Debug\GenericExceptions.exe.config
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\bin\Debug\GenericExceptions.exe
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\bin\Debug\GenericExceptions.pdb
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\obj\Debug\GenericExceptions.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\obj\Debug\GenericExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\obj\Debug\GenericExceptions.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\obj\Debug\GenericExceptions.exe
+C:\Users\sagar.gupta\source\repos\GenericExceptions\GenericExceptions\obj\Debug\GenericExceptions.pdb

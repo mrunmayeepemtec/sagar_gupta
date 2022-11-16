@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.pdb
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.exe
+C:\Users\sagar.gupta\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.pdb

@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\bin\Debug\EMP_SAL_ASCEND.exe.config
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\bin\Debug\EMP_SAL_ASCEND.exe
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\bin\Debug\EMP_SAL_ASCEND.pdb
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\obj\Debug\EMP_SAL_ASCEND.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\obj\Debug\EMP_SAL_ASCEND.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\obj\Debug\EMP_SAL_ASCEND.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\obj\Debug\EMP_SAL_ASCEND.exe
+C:\Users\sagar.gupta\source\repos\EMP_SAL_ASCEND\EMP_SAL_ASCEND\obj\Debug\EMP_SAL_ASCEND.pdb

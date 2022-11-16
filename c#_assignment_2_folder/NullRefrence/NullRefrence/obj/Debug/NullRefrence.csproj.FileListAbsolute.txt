@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\bin\Debug\NullRefrence.exe.config
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\bin\Debug\NullRefrence.exe
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\bin\Debug\NullRefrence.pdb
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\obj\Debug\NullRefrence.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\obj\Debug\NullRefrence.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\obj\Debug\NullRefrence.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\obj\Debug\NullRefrence.exe
+C:\Users\sagar.gupta\source\repos\NullRefrence\NullRefrence\obj\Debug\NullRefrence.pdb
