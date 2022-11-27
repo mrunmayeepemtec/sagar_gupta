@@ -1,0 +1,8 @@
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\bin\Debug\CalculatorApp_netframework.exe.config
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\bin\Debug\CalculatorApp_netframework.exe
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\bin\Debug\CalculatorApp_netframework.pdb
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\obj\Debug\CalculatorApp_netframework.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\obj\Debug\CalculatorApp_netframework.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\obj\Debug\CalculatorApp_netframework.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\obj\Debug\CalculatorApp_netframework.exe
+C:\Users\sagar.gupta\source\repos\CalculatorApp_netframework\CalculatorApp_netframework\obj\Debug\CalculatorApp_netframework.pdb

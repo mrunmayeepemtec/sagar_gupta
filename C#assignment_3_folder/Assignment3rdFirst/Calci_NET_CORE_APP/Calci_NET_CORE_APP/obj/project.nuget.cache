@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IP3t6D+kjVGlUOHoMQwu24eSUh8EfjaZfxV+n+x6ZGcOshkeptcAWRbxwrTvDvSsPK64xNeFhsAOawWgP/DwPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagar.gupta\\sagar_gupta\\C#assignment_3_folder\\Calci_NET_CORE_APP\\Calci_NET_CORE_APP\\Calci_NET_CORE_APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagar.gupta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

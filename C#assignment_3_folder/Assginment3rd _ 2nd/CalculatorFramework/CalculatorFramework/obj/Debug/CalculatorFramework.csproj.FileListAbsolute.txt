@@ -1,0 +1,11 @@
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\bin\Debug\CalculatorFramework.exe.config
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\bin\Debug\CalculatorFramework.exe
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\bin\Debug\CalculatorFramework.pdb
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.Form1.resources
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.Properties.Resources.resources
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.csproj.GenerateResource.cache
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.exe
+C:\Users\sagar.gupta\source\repos\CalculatorFramework\CalculatorFramework\obj\Debug\CalculatorFramework.pdb

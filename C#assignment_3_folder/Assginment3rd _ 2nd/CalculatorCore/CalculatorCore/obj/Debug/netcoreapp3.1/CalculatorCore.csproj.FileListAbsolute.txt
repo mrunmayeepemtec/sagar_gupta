@@ -1,0 +1,16 @@
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.Form1.resources
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.csproj.GenerateResource.cache
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.AssemblyInfoInputs.cache
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.AssemblyInfo.cs
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.exe
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.deps.json
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.runtimeconfig.json
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.runtimeconfig.dev.json
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.dll
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.pdb
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.dll
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.pdb
+C:\Users\sagar.gupta\source\repos\CalculatorCore\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.genruntimeconfig.cache
