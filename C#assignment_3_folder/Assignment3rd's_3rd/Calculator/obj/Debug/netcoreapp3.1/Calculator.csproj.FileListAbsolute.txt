@@ -1,0 +1,10 @@
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
