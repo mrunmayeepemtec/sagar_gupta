@@ -27,7 +27,10 @@ namespace WebApplicationCore1.Controllers
         [HttpGet]
         public int Get()
         {
-            return new Calculator.Calc.Add(4, 5);
+
+            Calc obj = new Calc();
+           return obj.Add(4, 8);
+
         }
     }
 }
