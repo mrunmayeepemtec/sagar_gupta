@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ar+rKPy8+HEYIi7MuN8cdSFtgKYaN6IX5petEVFiScYh9jAdB5u60YnW1qVkGkygdaWihzpWP3DgXYEn8nV3bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagar.gupta\\source\\repos\\WebApplicationCore\\CalculatorStandard2\\CalculatorStandard2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagar.gupta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sagar.gupta\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

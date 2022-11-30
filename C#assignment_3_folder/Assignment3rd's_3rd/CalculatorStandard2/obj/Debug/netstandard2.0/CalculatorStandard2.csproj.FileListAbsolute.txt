@@ -1,0 +1,10 @@
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\bin\Debug\netstandard2.0\CalculatorStandard2.deps.json
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\bin\Debug\netstandard2.0\CalculatorStandard2.dll
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\bin\Debug\netstandard2.0\CalculatorStandard2.pdb
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\obj\Debug\netstandard2.0\CalculatorStandard2.csproj.AssemblyReference.cache
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\obj\Debug\netstandard2.0\CalculatorStandard2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\obj\Debug\netstandard2.0\CalculatorStandard2.AssemblyInfoInputs.cache
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\obj\Debug\netstandard2.0\CalculatorStandard2.AssemblyInfo.cs
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\obj\Debug\netstandard2.0\CalculatorStandard2.csproj.CoreCompileInputs.cache
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\obj\Debug\netstandard2.0\CalculatorStandard2.dll
+C:\Users\sagar.gupta\source\repos\WebApplicationCore\CalculatorStandard2\obj\Debug\netstandard2.0\CalculatorStandard2.pdb
